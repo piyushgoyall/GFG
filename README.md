@@ -2,7 +2,7 @@ Solutions to questions on Geeks for Geeks.\
 
 
 
- <img src="https://i.imgur.com/mkmVWVB.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Pixel art gif dump with a spooky aesthetic! - Album on Imgur" data-noaft="1" style="width: 465px; height: 252.62px; margin: 0px;">
+ <img src="https://i.imgur.com/mkmVWVB.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Pixel art gif dump with a spooky aesthetic! - Album on Imgur" data-noaft="1" style="width: 865px; height: 252.62px; margin: 0px;">
 
 
 
